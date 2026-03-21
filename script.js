@@ -587,10 +587,10 @@ scene.add(planet);
 
 //Ganti Deskripsi Planet
 const ringTexts = [
-  'Galaxy of Image From Kiaaà',//untuk deskripsi planet layer 1
-  "Beautifull girl",//untuk deskripsi planet layer 2
+  'Beautifull Galaxy For kiaa',//untuk deskripsi planet layer 1
+  "Beautifull girl in white",//untuk deskripsi planet layer 2
   "♡Be happy kiaa hehe♡",//untuk deskripsi planet layer 3
-  "21/03/2026",//untuk deskripsi planet layer 4
+  "MINAL AIDIN WAL FAIDZIN",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
